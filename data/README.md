@@ -1,1 +1,1 @@
-This folder contains dataset files.
+Analyze student academic performance and identify key factors affecting final marks using data analytics techniques. Develop a predictive model to estimate student performance and provide insights to improve academic outcomes.
