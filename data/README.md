@@ -1,27 +1,28 @@
-# Student Performance Analysis
+# Student Performance Analysis and Prediction
 
-## problem statement
-Analyze student academic performance and identify key factors affecting final marks using data analytics techniques. Develop a predictive model to estimate student performance and provide insights to improve academic outcomes.
+## Problem Statement
+This project aims to analyze student performance data and predict overall scores based on academic and lifestyle factors.
 
 ## Dataset
-Source: Kaggle – Student Performance Analytics Dataset
+- Source: Kaggle
+- Contains features like study hours, attendance, exam scores, sleep, etc.
 
-## Methodology
-Data Collection
-Data Preprocessing (handling missing values, duplicates)
-Exploratory Data Analysis (EDA)
-Feature Engineering
-Machine Learning Model Building
-Model Evaluation
-Insight Generation
+## Steps Performed
+- Data Cleaning (no missing values)
+- Exploratory Data Analysis (EDA)
+- Feature Encoding
+- Model Building using Linear Regression
 
-## tools used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-Learn
+## Key Insights
+- Academic scores (midterm, final, assignments) strongly affect performance
+- Study habits and attendance have moderate impact
+- External factors have limited influence
 
-## Conclusion
-This project demonstrates how data analytics and machine learning can be used to understand student performance and support data-driven decision-making in education.
+## Model Performance
+- R² Score: (add your value here)
+
+## Tools Used
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
