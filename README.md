@@ -26,3 +26,8 @@ This project aims to analyze student performance data and predict overall scores
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
+
+**Team Information**
+1. Siddhi Kshirsagar(Roll No.35):Model Developer
+2. Vinit Pandaokar(Roll No. 46):Data Visualization
+3. Sumit Parlikar(Roll No.47):Data Pre-Processing 
